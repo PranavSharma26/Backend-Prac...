@@ -1,0 +1,15 @@
+{
+	"name": "chai3",
+	"version": "1.0.0",
+	"description": "Chai aur Code lecture 3",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"author": "Pranav Sharma",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}
